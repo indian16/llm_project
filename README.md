@@ -1,4 +1,7 @@
 # Project is a user-friendly news research tool designed for effortless information retrieval. Users can input article URLs and ask questions to receive relevant insights from the stock market and financial domain.
+![bot](https://github.com/user-attachments/assets/9ff6a4d8-25dc-4722-87cb-41a506bc11ff)
+
+
 # Features:
 Load URLs or upload text files containing URLs to fetch article content.
 Process article content through LangChain's UnstructuredURL Loader
